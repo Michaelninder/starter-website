@@ -177,3 +177,16 @@ img.pfp{
     max-width: var(--pfp-image-size);
     border: 2px solid var(--base-color)
 }
+
+
+
+
+
+
+
+/* --- Toast --- */
+.toast {
+    position: fixed;
+    align-items: center;
+    top: 12px;
+}
