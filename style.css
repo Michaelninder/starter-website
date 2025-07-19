@@ -191,8 +191,9 @@ img.pfp{
     top: 12px;
 }
 
-.active {
+.nav-link.active {
     color: var(--secondary-color);
     background-color: rgba(0, 0, 0, 0.3);
-    border-color: var(--secondary-color);
+    border-radius: var(--border-radius);
+    padding: 6px 10px;
 }
